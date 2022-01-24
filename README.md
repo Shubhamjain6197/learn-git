@@ -1,2 +1,3 @@
-# learn-git
-this repo to learn git
+# Repo to keep git cmds.
+
+git clone *Repo Url*
